@@ -1,5 +1,5 @@
 Vulnerability Report
-CVE Disovered by: JOY
+CVE Disovered
 
 (DESIGNED TO BE RUN ON KALI LINUX)
 
